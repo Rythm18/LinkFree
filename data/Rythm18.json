@@ -1,0 +1,19 @@
+{
+  "name": "Ridham Khandar",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Tech enthusiast guy",
+  "avatar": "https://github.com/Rythm18.png",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/ridhamkhandar18",
+      "icon": "FaTwitter"
+    }
+    {
+      "name": "Follow me on Instagram",
+      "url": "https://instagram.com/ridham.khandar18",
+      "icon": "FaInstagram"
+    }
+  ]
+}
